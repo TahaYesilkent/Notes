@@ -91,14 +91,11 @@ Kurulum ve Çalıştırma Adımları
 Bu projeyi yerel makinenizde kurmak ve çalıştırmak için aşağıdaki adımları izleyin:
 
 Projeyi Klonlayın:
+  git clone https://github.com/kullaniciAdi/ders-notlari-app.git
+  cd ders-notlari-app
 
-Bash
-
-git clone https://github.com/kullaniciAdi/ders-notlari-app.git
-cd ders-notlari-app
-Backend Kurulumu ve Çalıştırma:
-
-src/Backend/DersNotlariApp.Api dizinine gidin.
+    Backend Kurulumu ve Çalıştırma:
+    src/Backend/DersNotlariApp.Api dizinine gidin.
 
 ASP.NET Core Web API projesini tercih ettiğiniz IDE'de (örneğin Visual Studio veya VS Code) açın.
 
@@ -106,14 +103,9 @@ appsettings.json dosyası içinde veritabanı bağlantı dizesini (ConnectionStr
 
 Proje dizininde terminali açın ve bağımlılıkları yükleyin:
 
-Bash
+  dotnet restore
+  dotnet run
 
-dotnet restore
-Projenizi başlatın:
-
-Bash
-
-dotnet run
 Varsayılan olarak API, https://localhost:7001 (veya benzer bir port) üzerinde çalışacaktır. Swagger UI'a https://localhost:7001/swagger adresinden erişebilirsiniz.
 
 Frontend Kurulumu ve Çalıştırma:
@@ -122,14 +114,12 @@ src/Frontend/ders-notlari-app-ui dizinine gidin.
 
 Bağımlılıkları yükleyin:
 
-Bash
-
 npm install
+
 React uygulamasını başlatın:
 
-Bash
-
 npm run dev
+
 Varsayılan olarak frontend uygulaması http://localhost:5173 (veya farklı bir port) üzerinde çalışacaktır.
 
 Not: Dosya yükleme klasörünün (wwwroot/uploads) düzgün çalışabilmesi için, backend projesinin wwwroot dizini altında uploads klasörünün mevcut olduğundan emin olun. Gerekirse bu dizini manuel olarak oluşturabilirsiniz.
@@ -237,3 +227,41 @@ Bu proje, temel bir eğitim amaçlı not yönetim sistemi örneğidir. Üretim o
 Şu an için kullanıcılar yalnızca kendi verilerine erişebilir.
 
 İlerleyen sürümlerde e-posta doğrulama, parola sıfırlama, rol tabanlı yetkilendirme ve kullanıcı profili düzenleme gibi özellikler eklenebilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
