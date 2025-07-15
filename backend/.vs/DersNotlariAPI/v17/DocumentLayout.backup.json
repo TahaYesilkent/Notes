@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahay\\case\\DersNotlariAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\dtos\\codefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:dtos\\codefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\dtos\\noteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:dtos\\noteupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|c:\\users\\tahay\\case\\dersnotlariapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B3B19B-ACA1-4707-ABB8-A0137D627CC0}|DersNotlariAPI.csproj|solutionrelative:controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Controllers\\NoteController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwLAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:36:30.75Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserupdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\UserupdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserupdateDto.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\UserupdateDto.cs",
+              "RelativeToolTip": "Dtos\\UserupdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:34:18.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\NoteUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\NoteUpdateDto.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\NoteUpdateDto.cs",
+              "RelativeToolTip": "Dtos\\NoteUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:33:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeFile.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\CodeFile.cs",
+              "RelativeDocumentMoniker": "Dtos\\CodeFile.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Dtos\\CodeFile.cs",
+              "RelativeToolTip": "Dtos\\CodeFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:33:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:02:27.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:44:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:37:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\tahay\\case\\DersNotlariAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:37:27.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
